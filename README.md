@@ -1,0 +1,1 @@
+This are my game. download the compressed folder and extract it, and play the FrinzMobileProject.exe in it, if you use pc, and download the .apk file if you use mobile. If you like it, pls let me know :)
